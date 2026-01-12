@@ -12,9 +12,11 @@
   opacity: 0;
   transform: translateY(20px); /* starts slightly lower */
   transition: opacity 1.5s ease-out, transform 2s ease-out;
+  z-index: 0;
 }
 
 .fade-in-section.visible {
   opacity: 1;
   transform: translateY(0);
+    z-index:1;
 }
