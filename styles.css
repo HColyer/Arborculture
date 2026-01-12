@@ -1,6 +1,9 @@
  body   {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Serif', serif;
+ }
 
+ .custom-bg-color {
+    background-color: #25A96D;
  }
